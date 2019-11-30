@@ -1,5 +1,6 @@
 ## 重要事項
  - ソースを実行する前にpowershellかコマンドプロンプトで" python -m pip install -U matplotlib"って打ってください
+   (matplotlibをアプデしてください）
  　エラーが出たら連絡してください
 
 #各ファイルの説明
